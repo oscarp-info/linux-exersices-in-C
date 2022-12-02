@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-Por favor lee el [ENUNCIADO.md](https://github.com/oscarp-info/linux-exersices-in-C/blob/main/ENUNCIADO.md)
+Por favor lee el [ENUNCIADO.md](https://github.com/oscarp-info/linux-exersices-in-C/blob/main/ex_01/ENUNCIADO.md)
 
 ## Funciones de socket sock-lib.c
 
